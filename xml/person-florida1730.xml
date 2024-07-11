@@ -1,0 +1,50 @@
+<annotation>
+  <folder></folder>
+  <filename>person-florida1730</filename>
+  <path> </path>
+  <source>
+    <database>  </database>
+  </source>
+  <size>
+    <width>3840</width>
+    <height>2048</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>3408</xmin>
+      <ymin>1232</ymin>
+      <xmax>3451</xmax>
+      <ymax>1286</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>boat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1533</xmin>
+      <ymin>1159</ymin>
+      <xmax>1560</xmax>
+      <ymax>1185</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1524</xmin>
+      <ymin>1137</ymin>
+      <xmax>1557</xmax>
+      <ymax>1167</ymax>
+    </bndbox>
+  </object>
+</annotation>

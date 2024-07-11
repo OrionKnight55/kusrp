@@ -1,0 +1,38 @@
+<annotation>
+	<folder>2blabel</folder>
+	<filename>Screenshot from NITRO Boats	2017 Z21 360° Virtual Ride Along with Edwin Evers.mp4.jpg</filename>
+	<path>/home/wenyan/Pictures/2blabel/Screenshot from NITRO Boats	2017 Z21 360° Virtual Ride Along with Edwin Evers.mp4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2195</xmin>
+			<ymin>965</ymin>
+			<xmax>2551</xmax>
+			<ymax>1578</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1191</xmin>
+			<ymin>1212</ymin>
+			<xmax>2391</xmax>
+			<ymax>1622</ymax>
+		</bndbox>
+	</object>
+</annotation>

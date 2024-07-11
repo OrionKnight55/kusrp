@@ -1,0 +1,26 @@
+<annotation>
+  <folder></folder>
+  <filename>person-florida2910</filename>
+  <path> </path>
+  <source>
+    <database>  </database>
+  </source>
+  <size>
+    <width>3840</width>
+    <height>2048</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>boat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1573</xmin>
+      <ymin>986</ymin>
+      <xmax>1637</xmax>
+      <ymax>1047</ymax>
+    </bndbox>
+  </object>
+</annotation>

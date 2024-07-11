@@ -1,0 +1,50 @@
+<annotation>
+  <folder></folder>
+  <filename>person-skaetboard585</filename>
+  <path> </path>
+  <source>
+    <database>  </database>
+  </source>
+  <size>
+    <width>3840</width>
+    <height>2048</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2771</xmin>
+      <ymin>982</ymin>
+      <xmax>2836</xmax>
+      <ymax>1100</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>skateboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1089</xmin>
+      <ymin>1183</ymin>
+      <xmax>1367</xmax>
+      <ymax>1387</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>903</xmin>
+      <ymin>563</ymin>
+      <xmax>1435</xmax>
+      <ymax>1301</ymax>
+    </bndbox>
+  </object>
+</annotation>

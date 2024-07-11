@@ -1,0 +1,50 @@
+<annotation>
+  <folder></folder>
+  <filename>person-yard1495</filename>
+  <path> </path>
+  <source>
+    <database>  </database>
+  </source>
+  <size>
+    <width>3840</width>
+    <height>2048</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2779</xmin>
+      <ymin>995</ymin>
+      <xmax>2901</xmax>
+      <ymax>1261</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1592</xmin>
+      <ymin>687</ymin>
+      <xmax>1740</xmax>
+      <ymax>885</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>893</xmin>
+      <ymin>1015</ymin>
+      <xmax>998</xmax>
+      <ymax>1432</ymax>
+    </bndbox>
+  </object>
+</annotation>

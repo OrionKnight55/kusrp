@@ -1,0 +1,50 @@
+<annotation>
+  <folder></folder>
+  <filename>sandboard1085</filename>
+  <path> </path>
+  <source>
+    <database>  </database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>952</xmin>
+      <ymin>336</ymin>
+      <xmax>1000</xmax>
+      <ymax>417</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>860</xmin>
+      <ymin>284</ymin>
+      <xmax>1019</xmax>
+      <ymax>449</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>875</xmin>
+      <ymin>332</ymin>
+      <xmax>909</xmax>
+      <ymax>383</ymax>
+    </bndbox>
+  </object>
+</annotation>

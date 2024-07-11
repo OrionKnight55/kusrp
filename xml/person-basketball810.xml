@@ -1,0 +1,38 @@
+<annotation>
+  <folder></folder>
+  <filename>person-basketball810</filename>
+  <path> </path>
+  <source>
+    <database>  </database>
+  </source>
+  <size>
+    <width>3840</width>
+    <height>2048</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2010</xmin>
+      <ymin>1141</ymin>
+      <xmax>2060</xmax>
+      <ymax>1225</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>561</xmin>
+      <ymin>1465</ymin>
+      <xmax>742</xmax>
+      <ymax>1686</ymax>
+    </bndbox>
+  </object>
+</annotation>
